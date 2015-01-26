@@ -1,4 +1,3 @@
-CourseraDataSciencePML
-======================
+### Practical Machine Learning - Peer Assessment - Prediction Assignment Writeup
 
-Coursera Data Science Practical Machine Learning
+https://github.com/iyermobile/CourseraDataScience_PML
